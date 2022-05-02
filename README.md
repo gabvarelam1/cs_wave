@@ -13,6 +13,9 @@ artifacts (much like spirals), and its reconstruction performance is better (or 
 to other methods. Nonetheless, future work would be about implementing
 a random sampling pattern on the Wave-MPRAGE sequence to improve reconstruction performance. 
 
+#Requirements:
+- Matlab's Wavelet Toolbox
+
 If you use the code, please cite the following:
 
 1. Varela-Mattatall, G et al. "Rapid CS-Wave acquisition with automated parameter selection"
@@ -27,3 +30,10 @@ If you use the code, please cite the following:
 
 5.  Ong et al. "General Phase Regularized Reconstruction Using Phase Cycling". MRM, 2018
 6. Haldar, J. "Low-Rank Modeling of Local k-Space Neighborhoods (LORAKS) for Constrained MRI". (IEEE on Medical Imaging, 2014)
+
+
+Contact info: 
+Gabriel Varela-Mattatall, email: gabriel.varela.mattatall@gmail.com; gvarela2@uwo.ca.
+                          twitter: @gabvarelam1
+
+
