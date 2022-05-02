@@ -16,6 +16,9 @@ a random sampling pattern on the Wave-MPRAGE sequence to improve reconstruction 
 #Requirements:
 - Matlab's Wavelet Toolbox
 
+#Download Data to run code:
+https://www.dropbox.com/sh/222zh71t6lmkzc3/AACKKEe5JhI1yQPlVcPe54Eza?dl=0 
+
 If you use the code, please cite the following:
 
 1. Varela-Mattatall, G et al. "Rapid CS-Wave acquisition with automated parameter selection"
