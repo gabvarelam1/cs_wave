@@ -16,7 +16,7 @@ a random sampling pattern on the Wave-MPRAGE sequence to improve reconstruction 
 #Requirements:
 - Matlab's Wavelet Toolbox
 
-#Download Data to run code: TO UPLOAD
+#Download Data to run code: https://www.dropbox.com/s/iys98wkvvj89f69/data1.mat?dl=0
 
 If you use the code, please cite the following:
 
