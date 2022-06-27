@@ -17,6 +17,7 @@ a random sampling pattern on the Wave-MPRAGE sequence to improve reconstruction 
 - Matlab's Wavelet Toolbox
 
 #Download Data to run code: https://www.dropbox.com/s/iys98wkvvj89f69/data1.mat?dl=0
+
 #Download Mask to run code: https://www.dropbox.com/s/111xjzlw46j7rtl/data1_brain_mask.nii.gz?dl=0
 
 If you use the code, please cite the following:
